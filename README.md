@@ -16,4 +16,8 @@ XRot: -40.0
 yRot: 110.0
 zRot: 10.0
 
+Bone: 18905
+Animation Dict: mp_player_inteat@burger
+Animation Name: mp_player_int_eat_burger
+
 Rotation Type: 0
